@@ -82,3 +82,7 @@ environment variables in your host's dashboard. Never commit `.env`.
 ## License
 
 MIT. See [LICENSE](LICENSE).
+
+## Acknowledgments
+
+Built as a portfolio project to explore emotion-aware conversational AI.
