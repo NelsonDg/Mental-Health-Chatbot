@@ -29,6 +29,7 @@ and a fully responsive layout that works on desktop and mobile.
 - **Backend:** Flask, Flask-SQLAlchemy (SQLite), NLTK (VADER), spaCy, scikit-learn, Google Gemini API (`google-genai`)
 - **Frontend:** vanilla HTML/CSS/JS (no framework), Web Speech API
 - **Tests:** `unittest`
+- **Deployment:** Gunicorn (via Procfile)
 
 ## Setup
 
